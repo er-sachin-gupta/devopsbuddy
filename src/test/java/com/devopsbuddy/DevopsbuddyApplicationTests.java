@@ -9,10 +9,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class DevopsbuddyApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
-
     @Autowired
     private I18NService i18NService;
 
